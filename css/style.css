@@ -10,7 +10,6 @@ html{
         box-sizing: inherit;
  }
  .button {
-    border: none;
     padding: 2px;
     text-align:center;
     /* display: inline-block; */
@@ -88,7 +87,7 @@ header{
     background-color: darksalmon;
     color: #330808;
     /* text-align: center; */
-    background-image: url("/images/annie-spratt-V1lmayjfBJc-unsplash.jpg");
+    background-image:url("../images/annie-spratt-V1lmayjfBJc-unsplash.JPG");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -111,7 +110,7 @@ header h2{
 .projects{
     background-color: cornflowerblue;
     color: brown;
-    background-image: url("file:///c:/Users/user/OneDrive/Desktop/css portfolio/images/annie-spratt-unsplash.jpg");
+    background-image: url("../images/annie-spratt-unsplash.jpg");
     background-repeat: no-repeat;
    background-size: cover;
 }
@@ -124,7 +123,7 @@ header h2{
 .work-experience{
     background-color: bisque;
     color: black;
-    background-image: url("file:///c:/Users/user/OneDrive/Desktop/css portfolio/images/sharon-mccutcheon-unsplash.jpg");
+    background-image: url("../images/sharon-mccutcheon-unsplash.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -134,7 +133,7 @@ header h2{
 .education{
     background-color: darkgray;
     color: black;
-    background-image: url("file:///c:/Users/user/OneDrive/Desktop/css portfolio/images/education_img.jpg");
+    background-image: url("../images/education_img.jpg");
     background-repeat: no-repeat;
     background-size:auto;
     background-position: center;
@@ -157,7 +156,7 @@ background-color:rgb(250, 242, 171);
 color:midnightblue;
 overflow: hidden;
     padding: 40px 0;
-    background-image: url("file:///c:/Users/user/OneDrive/Desktop/css portfolio/images/sharon-mccutcheon-unsplash.jpg");
+    background-image: url("../images/sharon-mccutcheon-unsplash.jpg");
     background-attachment: scroll;
     background-size:auto;
     background-position:center;
@@ -173,7 +172,7 @@ footer{
     color:blanchedalmond;
     font-size: 18px;
     line-height: 15px;
-    background-image: url("file:///c:/Users/user/OneDrive/Desktop/css portfolio/images/education_img.jpg");
+    background-image: url("../images/education_img.jpg");
 }
 footer .content-wrap{
     padding-bottom: 3%;
