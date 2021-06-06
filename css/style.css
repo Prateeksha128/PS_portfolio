@@ -112,9 +112,6 @@ header h2{
 .projects{
     background-image: url("../images/annie-spratt-V1lmayjfBJc-unsplash.jpg");
     color: brown;
-/*     background-repeat: no-repeat; */
-/*    background-size: cover; */
-/*      background-image: url("../images/sharon-mccutcheon-unsplash.jpg"); */
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
