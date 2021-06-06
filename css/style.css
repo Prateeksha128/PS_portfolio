@@ -25,6 +25,7 @@ html{
     border-radius: 56px;
     position: fixed;
     scroll-behavior:smooth;
+    background-image:url("../images/mona-eendra-vC8wj_Kphak-unsplash.jpg");
     
 }
   .button a:visited{
@@ -87,8 +88,9 @@ header{
     background-color: darksalmon;
     color: #330808;
     /* text-align: center; */
-    background-image:url("../images/mona-eendra-vC8wj_Kphak-unsplash.jpg");
+    background-image:url("../images/annie-spratt-V1lmayjfBJc-unsplash.jpg");
     background-repeat: no-repeat;
+    background-position: 100% 100%;
     background-size: cover;
 }
 header h1{
