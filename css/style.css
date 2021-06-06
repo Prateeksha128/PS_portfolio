@@ -25,7 +25,7 @@ html{
     border-radius: 56px;
     position: fixed;
     scroll-behavior:smooth;
-    background-image:url("../images/mona-eendra-vC8wj_Kphak-unsplash.jpg");
+/*     background-image:url("../images/mona-eendra-vC8wj_Kphak-unsplash.jpg"); */
     
 }
   .button a:visited{
@@ -88,7 +88,7 @@ header{
     background-color: darksalmon;
     color: #330808;
     /* text-align: center; */
-    background-image:url("../images/annie-spratt-V1lmayjfBJc-unsplash.jpg");
+    background-image:url("../images/annie-spratt-unsplash.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -112,7 +112,7 @@ header h2{
 .projects{
     background-color: cornflowerblue;
     color: brown;
-    background-image: url("../images/annie-spratt-unsplash.jpg");
+    background-image: url("../images/leone-venter-VieM9BdZKFo-unsplash.jpg");
     background-repeat: no-repeat;
    background-size: cover;
 }
