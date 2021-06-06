@@ -112,11 +112,7 @@ header h2{
 .projects{
     background-color: cornflowerblue;
     color: brown;
-<<<<<<< HEAD
-    background-image: url("../images/thumbnail-1.jpg");
-=======
     background-image: url("../images/annie-spratt-V1lmayjfBJc-unsplash.jpg");
->>>>>>> 2d17d5cb32a3f60eac0525bb67b4da846bd827db
     background-repeat: no-repeat;
    background-size: cover;
 }
